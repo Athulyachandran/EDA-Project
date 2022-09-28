@@ -26,7 +26,7 @@ matplotlib
 seaborn
 #### Analysis
 Based on the House Rent Data performed different analysis using graphs like piechart,bargraph,scatterplot,countplot etc
-####conclusion
+#### conclusion
 After performing Exploratory Data Analysis on this dataset, I have come to following hypothesis:
 people prefere city area to take rental house it may be beacuase of easy reachability of transportation office and the places they need to go.
 
