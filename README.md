@@ -31,8 +31,11 @@ Bathroom: Number of Bathrooms.
 Point of Contact: Whom should you contact for more information regarding the Houses/Apartments/Flats.
 #### Tools used
 Pandas
+
 numpy
+
 matplotlib
+
 seaborn
 #### Analysis
 Based on the House Rent Data performed different analysis using graphs like piechart,bargraph,scatterplot,countplot etc
